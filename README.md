@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcus Luu</h1>
-<h3 align="center">A Fresher Full Stack Web developer</h3>
+<h3 align="center">A Full Stack developer</h3>
 
 - 🌱 I’m currently learning **Framework, Code technique, Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuuHuynhVinhPhuc](https://github.com/LuuHuynhVinhPhuc)
 
-- 💬 Ask me about **ReactJS, ASP.NET, SQL, NoSQL, SQLite**
+- 💬 Ask me about **ReactJS, Angular, ASP.NET, SQL, NoSQL, SQLite**
 
 - 📫 How to reach me **vinhphucluuhuynh@gmail.com**
 

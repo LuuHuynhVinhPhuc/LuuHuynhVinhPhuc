@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuuHuynhVinhPhuc](https://github.com/LuuHuynhVinhPhuc)
 
-- 💬 Ask me about **ReactJS, Angular, ASP.NET, SQL, NoSQL, SQLite**
+- 💬 Ask me about **ReactJS, Angular, ASP.NET, SQL, NoSQL, SQLite and PostgreSQL**
 
 - 📫 How to reach me **vinhphucluuhuynh@gmail.com**
 

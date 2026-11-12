@@ -29,6 +29,9 @@ Software Engineer specializing in **.NET backend development**, **microservices*
 
 **Database & Enterprise Platforms**  
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![NetSuite](https://img.shields.io/badge/NetSuite_/_SuiteQL-1A4D80?style=flat-square)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square)
 

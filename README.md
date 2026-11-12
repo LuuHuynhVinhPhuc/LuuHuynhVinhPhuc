@@ -10,7 +10,6 @@ Software Engineer specializing in **.NET backend development**, **microservices*
 - 🔄 Experienced in **NetSuite ERP integrations**, API development.
 - 🚀 Hands-on with system modernization—upgrading legacy **.NET** applications to **.NET latest version** and refactoring service dependencies.
 - 🛠️ Focused on database performance, clean architecture, and maintaining code quality with **SonarQube** and automated **CI/CD pipelines**.
-- 📚 Maintaining a personal C#/.NET knowledge base — from language internals to Clean Architecture & Microservices: [CSharp-Mastery](https://github.com/LuuHuynhVinhPhuc/CSharp-Mastery)
 - 🌏 Based in **Vietnam (UTC+7)**, working daily with international **Agile/Scrum** teams.
 
 ---

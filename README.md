@@ -1,37 +1,70 @@
-<h1 align="center">Hi 👋, I'm Marcus Luu</h1>
-<h3 align="center">Full Stack Developer | .NET Backend Enthusiast</h3>
+# Hi there, I'm Phuc Luu 👋
 
-- 🌱 I'm currently deepening my knowledge of **.NET internals (memory & runtime), Clean Architecture, Domain-Driven Design, SOLID, and Microservices patterns**
+Software Engineer specializing in **.NET backend development**, **microservices**, and **enterprise system integrations**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/LuuHuynhVinhPhuc](https://github.com/LuuHuynhVinhPhuc)
+---
 
-- 💬 Ask me about **C#, ASP.NET Core, Entity Framework Core, Clean Architecture, SQL Server, PostgreSQL, ReactJS, Angular**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **vinhphucluuhuynh@gmail.com**
+- 🔭 Currently building and maintaining distributed backend services using **.NET / C#** and **ABP Framework**.
+- 🔄 Experienced in **NetSuite ERP integrations**, API development.
+- 🚀 Hands-on with system modernization—upgrading legacy **.NET** applications to **.NET latest version** and refactoring service dependencies.
+- 🛠️ Focused on database performance, clean architecture, and maintaining code quality with **SonarQube** and automated **CI/CD pipelines**.
+- 📚 Maintaining a personal C#/.NET knowledge base — from language internals to Clean Architecture & Microservices: [CSharp-Mastery](https://github.com/LuuHuynhVinhPhuc/CSharp-Mastery)
+- 🌏 Based in **Vietnam (UTC+7)**, working daily with international **Agile/Scrum** teams.
 
-- 📄 Know about my experience at [https://marcusluuportfolio.vercel.app/]([[https://luuhuynhvinhphuc-portfolio-lake.vercel.app/](https://luuhuynhvinhphuc-portfolio-lake.vercel.app/)])
+---
 
-- ⚡ Fun fact: **I'm humorous, happy, and full of energy**
+### 🧰 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
+**Backend & Frameworks**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_6_--_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ABP Framework](https://img.shields.io/badge/ABP_Framework-0E639C?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat-square)
+
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Database & Enterprise Platforms**  
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![NetSuite](https://img.shields.io/badge/NetSuite_/_SuiteQL-1A4D80?style=flat-square)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 📌 Current Focus
+
+- Migrating multi-service architectures to **.NET 10** and **ABP vNext**.
+- Optimizing SQL / SuiteQL queries and data synchronization flows across environments.
+- Streamlining build/release pipelines and environment configurations.
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-<a href="www.linkedin.com/in/marusluu0506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinh phuc luu huynh" height="30" width="40" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=LuuHuynhVinhPhuc&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Phuc's GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuHuynhVinhPhuc&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=LuuHuynhVinhPhuc&style=flat-square&color=blue&label=Profile+views)
+
+---
+
+### 📫 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/marusluu0506](https://www.linkedin.com/in/marusluu0506)
+- **Email:** vinhphucluuhuynh@gmail.com
